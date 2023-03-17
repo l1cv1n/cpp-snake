@@ -1,6 +1,5 @@
 #include <SDL2/SDL.h>
 #include <SDL2/SDL_events.h>
-#include "utils.h"
 
 
 class Game
